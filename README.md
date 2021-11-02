@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/Ahsan03962509
-[2]: https://www.linkedin.com/in/muhammad-ahsan-902ab01b2/
+[2]: https://www.linkedin.com/in/muhammad-ahsan-902ab01b2
