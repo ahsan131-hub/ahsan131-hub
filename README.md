@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NodeJs,React/Redux and Blockchain
 - 👯 I’m looking to collaborate on web3
 - 🤔 I’m looking for help with blockchain
-- 📫 How to reach me: [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] .
+- 📫 How to reach me: [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2] .
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Googling....
 
