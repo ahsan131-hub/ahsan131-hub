@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NodeJs,React/Redux and Blockchain
 - 👯 I’m looking to collaborate on web3
 - 🤔 I’m looking for help with blockchain
-- 📫 How to reach me: [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+- 📫 How to reach me: [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3] .
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Googling....
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://img.icons8.com/material-outlined/50/000000/linkedin--v1.png
 
 <!-- Links to your social media accounts -->
 
