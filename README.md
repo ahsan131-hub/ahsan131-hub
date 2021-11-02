@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://img.icons8.com/color/100/000000/twitter--v1.png 
 [2.2]: https://img.icons8.com/color/24/000000/linkedin.png
 
 <!-- Links to your social media accounts -->
