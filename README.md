@@ -16,14 +16,6 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan131-hub&layout=compact)](https://github.com/ahsan131-hub/github-readme-stats)
-
-
-[![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsan131-hub)](https://github.com/ahsan131-hub/github-readme-stats)
-
-
-
-
 
 
 <!-- Icons -->
