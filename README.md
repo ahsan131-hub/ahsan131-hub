@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on MERN
-- 🌱 I’m currently learning NodeJs,React/Redux and Blockchain
+- 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on web3
 - 🤔 I’m looking for help with blockchain
 - 📫 How to reach me: [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2] .
