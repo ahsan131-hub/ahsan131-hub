@@ -19,7 +19,7 @@ I'm actively learning about cloud computing platforms like AWS and Azure to depl
 ## 🚀 My Tech Stack
 
 - Front-end: React, NEXT.js, HTML5, CSS3, JavaScript
-- Back-end: Node.js, Express.js
+- Back-end: Node.js, Express.js | Python Django, FastAPI Flask
 - Database: MongoDB, MySQL
 - Version Control: Git, GitHub
 - Deployment: AWS, Heroku, Netlify, Vercel
