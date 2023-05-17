@@ -1,30 +1,39 @@
-### Hi there 👋
+# Hello, I'm Muhammad Ahsan! 👋
 
-<!--
-**ahsan131-hub/ahsan131-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer with nearly 2 years of experience. My expertise lies in creating dynamic web applications using cutting-edge technologies such as NEXT.js, Node.js, TypeScript, GraphQL, REST API, and React.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on MERN
-- 👯 I’m looking to collaborate on web3
-- 🤔 I’m looking for help with blockchain
-- 📫 How to reach me: [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2] .
-- My Portfolio: [![PortFolio][3.1]][3]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Googling....
+## 🔭 What I'm Currently Working On
 
+I'm currently working on enhancing my skills in building scalable and performant web applications. I'm also exploring new frameworks and tools to stay up-to-date with the latest trends in the industry.
 
+## 🌱 What I'm Currently Learning
 
+I'm actively learning about cloud computing platforms like AWS and Azure to deploy and manage web applications. Additionally, I'm diving deeper into advanced React concepts and exploring GraphQL for efficient data fetching.
 
+## 💼 My Professional Experience
 
-<!-- Icons -->
+- Worked as a full-stack developer at Secomind.ai, where I contributed to the development of web applications using NEXT.js, Node.js, TypeScript, GraphQL, and React.
+- Collaborated with cross-functional teams to design and implement RESTful APIs for seamless data integration.
+- Developed responsive and intuitive user interfaces with a focus on delivering an exceptional user experience.
 
+## 🚀 My Tech Stack
 
-[1.2]: https://img.icons8.com/color/24/000000/twitter--v2.png
-[2.2]: https://img.icons8.com/color/24/000000/linkedin.png
-[3.1]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/24/000000/external-portfolio-contact-flatart-icons-flat-flatarticons.png
-<!-- Links to your social media accounts -->
+- Front-end: React, NEXT.js, HTML5, CSS3, JavaScript
+- Back-end: Node.js, Express.js
+- Database: MongoDB, MySQL
+- Version Control: Git, GitHub
+- Deployment: AWS, Heroku, Netlify, Vercel
 
-[1]: https://twitter.com/Ahsan03962509
-[2]: https://www.linkedin.com/in/muhammad-ahsan-902ab01b2
-[3]: https://ahsan131-hub.github.io/myProfile
+## 🌟 My Achievements
+
+- Completed Bachelor in Computer Science in 2023
+- Completed CS50's Web Programming with Python and JavaScript By havardX.
+
+## 📫 How to Reach Me
+
+I'm always open to new opportunities, collaborations, and interesting projects. Feel free to reach out to me via email at ahsanjsdev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ahsan131-hub).
+
+## ⭐️ Fun Fact
+
+When I'm not coding, you can find me exploring new hiking trails and capturing stunning landscapes with my camera. Nature photography is my creative escape!
+
