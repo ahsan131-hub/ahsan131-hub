@@ -2,14 +2,6 @@
 
 I'm a passionate full-stack developer with nearly 2 years of experience. My expertise lies in creating dynamic web applications using cutting-edge technologies such as NEXT.js, Node.js, TypeScript, GraphQL, REST API, and React.
 
-## 🔭 What I'm Currently Working On
-
-I'm currently working on enhancing my skills in building scalable and performant web applications. I'm also exploring new frameworks and tools to stay up-to-date with the latest trends in the industry.
-
-## 🌱 What I'm Currently Learning
-
-I'm actively learning about cloud computing platforms like AWS and Azure to deploy and manage web applications. Additionally, I'm diving deeper into advanced React concepts and exploring GraphQL for efficient data fetching.
-
 ## 💼 My Professional Experience
 
 - Worked as a full-stack developer at Secomind.ai, where I contributed to the development of web applications using NEXT.js, Node.js, TypeScript, GraphQL, and React.
