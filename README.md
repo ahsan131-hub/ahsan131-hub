@@ -1,6 +1,6 @@
 # Hello, I'm Muhammad Ahsan! 👋
 
-I'm a passionate full-stack developer with nearly 2 years of experience. My expertise lies in creating dynamic web applications using cutting-edge technologies such as NEXT.js, Node.js, TypeScript, GraphQL, REST API, and React.
+I'm a passionate full-stack developer with nearly 3 years of experience. My expertise lies in creating dynamic web applications using cutting-edge technologies such as NEXT.js, Node.js, TypeScript, GraphQL, REST API, and React.
 
 ## 💼 My Professional Experience
 
